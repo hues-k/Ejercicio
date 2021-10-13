@@ -1,0 +1,44 @@
+.fondo{
+    background-image: url('img/fondo.jpg');
+}
+
+.caja{
+    width: 504px;
+height: 667px;
+    background: #FFDD0E 0% 0% no-repeat padding-box;
+    box-shadow: 6px 3px 6px #00000029;
+    opacity: 1;
+}
+.caja h1{
+    padding-top: 40px;
+    padding-left: 140px;
+    width: 373px;
+    height: 99px;
+    text-align: left;
+    font: normal normal bold 30px/39px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.caja .botones{
+    padding-top: 100px;
+    padding-left: 140px;
+}
+.img{
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #DDDDDD;
+    border-radius: 20px;
+    opacity: 1;
+
+}
+.final{
+    background: #FFDD0E 0% 0% no-repeat padding-box;
+    height: 900px;
+}
+.final h1{
+padding-top: 30px;
+font: normal normal bold 60px/73px 'Montserrat', sans-serif;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
